@@ -1,0 +1,10 @@
+export { HeaderSimple } from "./HeaderSimple";
+export { ThankYouHero } from "./ThankYouHero";
+export { BrunoVideo } from "./BrunoVideo";
+export { AccessButtons } from "./AccessButtons";
+export { NextSteps } from "./NextSteps";
+export { WhatsAppSupport } from "./WhatsAppSupport";
+export { PromiseReinforcement } from "./PromiseReinforcement";
+export { CourseInvitation } from "./CourseInvitation";
+export { HelpSection } from "./HelpSection";
+export { FooterSimple } from "./FooterSimple";
